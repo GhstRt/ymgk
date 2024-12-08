@@ -15,27 +15,25 @@ Projeye ait tüm dokümanlar (analiz, tasarım vb.) docs klasörü altında yer 
 ### Oyun-1: Firavunlar Tarihi Quiz Oyunu
 Bu oyun, oyuncuların Eski Mısır firavunları hakkında bilgi edinirken eğlenmelerini sağlar.
 
-Teknik Özellikler:
-Zaman Çizelgesi: Firavunların hükümdarlık tarihlerini içeren bir görsel zaman çizelgesi.
-Soru-Cevap Mekaniği:
+#### Teknik Özellikler:
+- Zaman Çizelgesi: Firavunların hükümdarlık tarihlerini içeren bir görsel zaman çizelgesi.
+- Soru-Cevap Mekaniği:
 Çoktan seçmeli sorular.
 Metin tabanlı cevaplar.
-Animasyonlar:
+- Animasyonlar:
 Dinamik dalga animasyonları.
-Yüksek Performans: 60 FPS grafik işleme desteği.
-React Native FlatList: Verimli veri gösterimi.
-Detaylı teknik doküman için tıklayın
+- Yüksek Performans: 60 FPS grafik işleme desteği.
+- React Native FlatList: Verimli veri gösterimi.
 
 ### Oyun-2: Şifre Çözme Oyunu
 Bu oyun, matematiksel ve mantıksal yeteneklerinizi test etmek için tasarlanmıştır.
 
-Teknik Özellikler:
-Şifreleme Mantığı:
+#### Teknik Özellikler:
+- Şifreleme Mantığı:
 Sayısal ipuçlarını çözerek harf eşleştirmeleri yapma.
-Dinamik Girdi: Kullanıcıdan gerçek zamanlı girişler alma.
-React Native Canvas: Şifre çözümü için özel çizim desteği.
-Minimal Tasarım: Kullanıcı dostu arayüz.
-Detaylı bilgi için tıklayın
+- Dinamik Girdi: Kullanıcıdan gerçek zamanlı girişler alma.
+- React Native Canvas: Şifre çözümü için özel çizim desteği.
+- Minimal Tasarım: Kullanıcı dostu arayüz.
 
 ## Genel Gereksinimler
 - Node.js (v14 veya üzeri)
