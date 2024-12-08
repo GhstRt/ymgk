@@ -6,7 +6,7 @@ Firavunlar ve Şifre Çözme Oyunları
  [Oyun Tanıtım Videosu](https://youtube.com/shorts/yuTmxGDcQ-A?feature=share)
 
 ## Dokümanlar
-Projeye ait tüm dokümanlar (analiz, tasarım vb.) docs klasörü altında yer almaktadır. Beyaz arka plan ile incelemeniz önerilir. 😊
+Projeye ait tüm dokümanlar (analiz, tasarım vb.) docs klasörü altında yer almaktadır.
 
 ## Proje Yönetimi
 
