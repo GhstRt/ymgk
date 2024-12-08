@@ -10,7 +10,7 @@ Projeye ait tüm dokümanlar (analiz, tasarım vb.) docs klasörü altında yer 
 
 ## Proje Yönetimi
 
- [Trello Board]((https://trello.com/b/uHNnOg7N/ymgk))
+ [Trello Board](https://trello.com/b/uHNnOg7N/ymgk)
 
 ## Projeler
 ### Oyun-1: Firavunlar Tarihi Quiz Oyunu
