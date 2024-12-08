@@ -38,39 +38,37 @@ Minimal Tasarım: Kullanıcı dostu arayüz.
 Detaylı bilgi için tıklayın
 
 ## Genel Gereksinimler
-Node.js (v14 veya üzeri)
-Expo CLI (Son sürüm)
-React Native geliştirme ortamı
-Android Studio (Android için)
-Xcode (iOS için)
+- Node.js (v14 veya üzeri)
+- Expo CLI (Son sürüm)
+- React Native geliştirme ortamı
 
 ## Hızlı Başlangıç
-Repository'yi klonlayın:
 
-bash
-Kodu kopyala
+ Repository'yi klonlayın:
+```bash
 git clone [proje-url]
-İstediğiniz projenin dizinine gidin:
+```
 
-bash
-Kodu kopyala
+ İstediğiniz projenin dizinine gidin:
+```bash
 cd oyun-1
 # veya
 cd oyun-2
-Bağımlılıkları yükleyin:
+```
 
-bash
-Kodu kopyala
+ Bağımlılıkları yükleyin:
+```bash
 npm install
 # veya
 yarn install
-Projeyi başlatın:
+```
 
-bash
-Kodu kopyala
+ Projeyi başlatın:
+```bash
 npm start
 # veya
 yarn start
+```
 
 ## Proje Yönetimi
 Görev takibi ve zaman planlaması için güncel Trello board'umuzu ziyaret edebilirsiniz: 📋 Trello Board - Güncel Konular
