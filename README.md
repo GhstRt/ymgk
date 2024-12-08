@@ -9,7 +9,8 @@ Firavunlar ve Şifre Çözme Oyunları
 Projeye ait tüm dokümanlar (analiz, tasarım vb.) docs klasörü altında yer almaktadır. Beyaz arka plan ile incelemeniz önerilir. 😊
 
 ## Proje Yönetimi
-📋 Trello Board - Güncel Konular
+
+ [Trello Board]((https://trello.com/b/uHNnOg7N/ymgk))
 
 ## Projeler
 ### Oyun-1: Firavunlar Tarihi Quiz Oyunu
