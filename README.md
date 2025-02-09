@@ -1,9 +1,11 @@
 # AR Oyun Projesi
 
-Firavunlar ve Şifre Çözme Oyunları
-- Bu repository, React Native ve Expo kullanılarak geliştirilmiş iki farklı interaktif oyun projesini içermektedir: Firavunlar Tarihi Quiz Oyunu ve Şifre Çözme Oyunu. Eğitici ve eğlenceli bir mobil oyun deneyimi sunmayı amaçlar.
+Firavunlar, Şifre Çözme ve Eşleştirme Oyunları
+- Bu repository, React Native ve Expo kullanılarak geliştirilmiş iki farklı interaktif oyun projesini içermektedir: Firavunlar Tarihi Quiz Oyunu, Şifre Çözme Oyunu ve Eşleştirme Oyunu. Eğitici ve eğlenceli bir mobil oyun deneyimi sunmayı amaçlar.
 
  [Oyun Tanıtım Videosu](https://youtube.com/shorts/)
+
+ [Uygulama APK Linki](https://drive.google.com/file/d/1Wg56ei1I4rZw3E0RhmxvWWpoKan7dMnS/view?usp=sharing)
 
 ## Dokümanlar
 Projeye ait tüm dokümanlar (analiz, tasarım vb.) docs klasörü altında yer almaktadır.
