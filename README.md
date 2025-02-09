@@ -36,6 +36,16 @@ Sayısal ipuçlarını çözerek harf eşleştirmeleri yapma.
 - React Native Canvas: Şifre çözümü için özel çizim desteği.
 - Minimal Tasarım: Kullanıcı dostu arayüz.
 
+### Oyun-3: Karakter - Yemek Eşleştirme Oyunu
+Bu oyun, belirli karakterlerin en sevdiği yemekleri doğru şekilde eşleştirmeye dayalı bir eşleştirme oyunudur. Oyuncu, verilen karakterlerden birini seçtikten sonra, onun favori yemeğini doğru tahmin etmeye çalışır.
+
+#### Teknik Özellikler:
+- React Native ile geliştirilmiş.
+- useState hook'u ile oyun durumu yönetiliyor.
+- TouchableOpacity bileşenleri ile interaktif seçim sağlanıyor.
+- Alert mesajları ile oyuncuya geri bildirim veriliyor.
+- ScrollView kullanılarak yemeklerin düzgün görüntülenmesi sağlanıyor.
+
 ## Genel Gereksinimler
 - Node.js (v14 veya üzeri)
 - Expo CLI (Son sürüm)
